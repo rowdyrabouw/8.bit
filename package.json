@@ -11,7 +11,8 @@
     "jsmin:build": "gulp jsmin",
     "watch:eleventy": "clear && rm -rf dist && npx @11ty/eleventy --serve",
     "watch:sass": "npm run sass:dev -- --watch",
-    "build": "clear && rm -rf dist npm run sass:build && npm run jsmin:build && npx @11ty/eleventy"
+    "build": "clear && rm -rf dist npm run sass:build && npm run jsmin:build && npx @11ty/eleventy",
+    "netlify": "npm run sass:build && npm run jsmin:build && npx @11ty/eleventy"
   },
   "author": "",
   "license": "ISC",
