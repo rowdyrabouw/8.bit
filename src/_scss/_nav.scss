@@ -1,0 +1,10 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+
+  .btn {
+    width: 150px;
+    font-size: 2rem;
+    padding: 10px 20px;
+  }
+}

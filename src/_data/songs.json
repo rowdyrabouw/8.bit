@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "artist": "Queen",
+    "title": "We Will Rock You",
+    "file": "queen-we-will-rock-you"
+  },
+  {
+    "id": 2,
+    "artist": "Eminem",
+    "title": "The Real Slim Shady",
+    "file": "eminem-the-real-slim-shady"
+  },
+  {
+    "id": 3,
+    "artist": "Prince",
+    "title": "When Doves Cry",
+    "file": "prince-when-doves-cry"
+  },
+  {
+    "id": 4,
+    "artist": "System Of A Down",
+    "title": "Chop Suey",
+    "file": "system-of-a-down-chop-suey"
+  },
+  {
+    "id": 5,
+    "artist": "Idina Menzel",
+    "title": "Let It Go",
+    "file": "idina-menzel-let-it-go"
+  },
+  {
+    "id": 6,
+    "artist": "Linkin Park",
+    "title": "One Step Closer",
+    "file": "linkin-park-one-step-closer"
+  },
+  {
+    "id": 7,
+    "artist": "Oliver Heldens",
+    "title": "Turn Me On",
+    "file": "oliver-heldens-turn-me-on"
+  },
+  {
+    "id": 8,
+    "artist": "Robin Thicke",
+    "title": "Blurred Lines",
+    "file": "robin-thicke-blurred-lines"
+  },
+  {
+    "id": 9,
+    "artist": "Iron Maiden",
+    "title": "Run To The Hills",
+    "file": "iron-maiden-run-to-the-hills"
+  },
+  {
+    "id": 10,
+    "artist": "Carly Rae Jepsen",
+    "title": "Call Me Maybe",
+    "file": "carly-rae-jepsen-call-me-maybe"
+  },
+  {
+    "id": 11,
+    "artist": "Rage Against The Machine",
+    "title": "Killing In The Name",
+    "file": "rage-against-the-machine-killing-in-the-name"
+  },
+  {
+    "id": 12,
+    "artist": "Michael Jackson",
+    "title": "Don't Stop Till You Get Enough",
+    "file": "michael-jackson-dont-stop-til-you-get-enough"
+  },
+  {
+    "id": 13,
+    "artist": "Guns N' Roses",
+    "title": "Welcome To The Jungle",
+    "file": "guns-n-roses-welcome-to-the-jungle"
+  },
+  {
+    "id": 14,
+    "artist": "Avicii",
+    "title": "Wake Me Up",
+    "file": "avicii-wake-me-up"
+  },
+  {
+    "id": 15,
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "file": "metallica-enter-sandman"
+  },
+  {
+    "id": 16,
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "file": "rick-astley-never-gonna-give-you-up"
+  }
+]

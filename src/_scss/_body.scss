@@ -1,0 +1,31 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: $white;
+  font-family: "8bit", arial;
+  background-color: $black;
+  font-size: 2.6rem;
+}
+
+h1 {
+  color: $primary;
+  font-size: 10rem;
+}
+
+h1.mega {
+  color: $white;
+  font-size: 15rem;
+  animation: blink-animation 1s steps(5, start) infinite;
+}
+
+h2 {
+  font-size: 5rem;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
