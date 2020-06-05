@@ -9,7 +9,7 @@ const btnShowDetails = document.querySelector("#btnShowDetails");
 btnaudio8bit.addEventListener("click", () => {
   if (audio8bit.paused) {
     audio8bit.play();
-    btnaudio8bit.innerText = "Pauze 8bit song";
+    btnaudio8bit.innerText = "Pause 8bit song";
   } else {
     audio8bit.pause();
     btnaudio8bit.innerText = "Continue 8bit song";
@@ -19,7 +19,7 @@ btnaudio8bit.addEventListener("click", () => {
 btnAudioOriginal.addEventListener("click", () => {
   if (audioOriginal.paused) {
     audioOriginal.play();
-    btnAudioOriginal.innerText = "Pauze original song";
+    btnAudioOriginal.innerText = "Pause original song";
   } else {
     audioOriginal.pause();
     btnAudioOriginal.innerText = "Continue original song";
